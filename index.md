@@ -18,18 +18,16 @@ ___mantenimiento preventivo___
 ***mantenimiento predictivo***
 ```markdown
 
-
- instalamos  perifericos entrada y salida 
-instalamos  programas de office 
-instalamos  antivirus 
-
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1.  instalamos  perifericos entrada y salida
+2. instalamos  programas de office
+3. instalamos  programas de office 
+4. instalamos  antivirus 
+5. armamos equipos segun tus necesidades 
+6. vendemos piesas para tu computadora (garantia)
 
-**Bold** and _Italic_ and `Code` text
 
 ### soporte tecnico a distancia
 
