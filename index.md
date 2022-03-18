@@ -18,9 +18,6 @@ ___mantenimiento preventivo___
 ***mantenimiento predictivo***
 ```markdown
 
-- Bulleted
-- List
-
 1.  instalamos  perifericos entrada y salida
 2. instalamos  programas de office
 3. instalamos  programas de office 
