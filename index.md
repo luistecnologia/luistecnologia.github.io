@@ -2,20 +2,26 @@
 
 ## Bienvenio a luistecnologia
 
-You can use the [editor on GitHub](https://github.com/luistecnologia/luistecnologia.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+En este sitio podras encontrar todo sobre tecnologia .En cotraras todo sobre el soporte tecnico que ocupes para tu computadora  . contamos con los mejores tecnicos
+de toda cdmx,con trabajos garantizados 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Contamos con lo mas nuevo es sistemas,toda la linea de office y la ultima version de windwos para formatear tu equipo  .
 
-### Markdown
+### TIPOS DE MANTENIMIENTO 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+***mantenimiento correctivo***
 
+___mantenimiento preventivo___
+
+***mantenimiento de actualizacion***
+
+***mantenimiento predictivo***
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+
+ instalamos  perifericos entrada y salida 
+instalamos  programas de office 
+instalamos  antivirus 
 
 - Bulleted
 - List
@@ -25,15 +31,11 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### soporte tecnico a distancia
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Podemos resolver servcios tecnicos de manera remota , por medio de llamada , whatssap o de teamviwer podemos darte un soporte tecnico 
+y solucionar tus problemas de tu computadora 
 
-### Jekyll Themes
+### Soporte tecnico presencial 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luistecnologia/luistecnologia.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+si de manera remota no se pudo solucionar tu problema contamos con tecnicos que de forma precencial pueden solucionar tu problema 
