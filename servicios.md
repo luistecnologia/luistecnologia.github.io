@@ -16,9 +16,9 @@ este tipo de mantenimiento lo realizamos cuando tu equipo ya tiene una falla y a
 ***mantenimiento evolutivo***
 mejoramos y actualización de software hasta sustitución de sistemas o equipo.
 
-***intalamos drivers, perifericos de entrada y salida 
+***intalamos drivers, perifericos de entrada y salida***
 
-***venta de piesas y articulos para tu equipo de computo 
+***venta de piesas y articulos para tu equipo de computo***
 
 ***contamos con soporte tecnico de manera remota***
 este servicio es de manera telefonica o via chat , puedes marcarnos o mandarnos un whatssap al 5545508610 
@@ -27,4 +27,4 @@ este servicio es de manera telefonica o via chat , puedes marcarnos o mandarnos 
 podemos resolver tus problemas tecnicos con  servicio a domicilio , mandando a alguno de nuestris mejores tecnicos pra que tengas una 
 solucion inmediata 
 
-***horarios: lunes a sabado de lunes a viernes de 8 am a 4 pm sabados : 10 am a 2 pm 
+***horarios: lunes a sabado de lunes a viernes de 8 am a 4 pm sabados : 10 am a 2 pm***
