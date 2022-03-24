@@ -159,13 +159,13 @@ Chequee que la faja de interfaz del puerto COMM1 este conectada correctamente en
 - Mi computadora se comporta de manera extraña, hace cosas que yo no he pedido
 R=Lo más seguro en estos casos, es que tu Windows este bajo el control de algún virus, spyware o malware, el cual sea el culpable de ese comportamiento extraño que estas notando.
 
--Q. EL DISCO FUE FORMATEADO Y SE OLVIDARON DE HACER RESPALDO DE LOS DATOS. ¿SE PUEDE RECUPERAR LA INFORMACIÓN?
+- Q. EL DISCO FUE FORMATEADO Y SE OLVIDARON DE HACER RESPALDO DE LOS DATOS. ¿SE PUEDE RECUPERAR LA INFORMACIÓN?
 R=Sí se puede pero es indispensable que no se siga usando el disco para evitar sobre-escritura. En la mayoría de los casos sí se puede recuperar la parte de la información que no haya sido completamente sobrescrita. Incluso podemos reparar algunos archivos de tipo conocido cuando podemos extraer al menos una parte de los mismos
 
 - Q. YA SE CAMBIO LA TARJETA LOGICA Y EL DISCO SIGUE SIN FUNCIONAR
  R=El cambio de tarjetas es una técnica que no funciona desde hace tiempo pues los discos modernos incluyen una programación (llamada firmware) que se graba en el área de servicio de los platos y en la tarjeta, por lo que cada disco es diferente y es muy difícil obtener una tarjeta idéntica, que además sirva para reparar el daño original.
  
- -Q. LO REVISARON EN OTRO LADO Y ME DICEN QUE ES UN PROBLEMA FÍSICO (DE AGUJAS, Y OTROS COMPONENTES)
+ - Q. LO REVISARON EN OTRO LADO Y ME DICEN QUE ES UN PROBLEMA FÍSICO (DE AGUJAS, Y OTROS COMPONENTES)
 R=Es mejor que solicites tu disco de vuelta, porque los discos duros no tienen agujas, sino cabezales de lectura/escritura que nunca deben tocar la superficie de los delicados platos magnéticos en los que está grabada la información. Quien te diga que el problema son “las agujas” no sabe de que está hablando y puede dañar irremediablemente los datos.
 
 - LAS IMÁGENES DEL MONITOR NO TIENEN TODOS LOS COLORES. 
@@ -188,5 +188,5 @@ R=La temperatura ideal depende del procesador específico, y las cifras las podr
 - ¿Es mejor construir o comprar un PC?
 R=Realmente depende de la opción con la que te sientas más cómodo. Yo me he visto en ambas situaciones, es decir, construí mi primer PC hace unos 15 años y, entre tanto, he tenido dos equipos previamente compilados.
 
--
+
             
