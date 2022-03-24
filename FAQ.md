@@ -141,6 +141,25 @@ R=Esto sucede comúnmente cuando Microsoft detecta una copia ilegal o pirata de 
 - Q. EL DISCO YA FUE ABIERTO. ¿SE PUEDE RECUPERAR?
 R=Los discos cerrados y sellados tienen una probabilidad de recuperación entre el 80 y el 96%. Los discos que han sido abiertos tienen una menor probabilidad de ser recuperados (aproximadamente 40%), pues si se abren en ambiente no controlado se contaminan y se dañan las superficies de los platos en que está grabada la información.
 
+- ¿Cómo puedo proteger mi computadora de virus?
+R=olo debes instalar un antivirus, claro que no estará completa del todo pero te ayudara muchísimo, además que no es necesario comprar alguno, en internet te ofrecen opciones gratis de estos programas y la mayoría suele ser efectivo
 
+- Mi computadora enciende pero no tengo imagen ¿Por qué?
+R=Verificar que el monitor esté conectado a la corriente eléctrica.
+o  Verificar que la placa de video este instalado correctamente, en caso contrario instalar una nueva
+
+- Falla de internet en una computadora de escritorio
+R=Esto puede ocurrir aunque tengas señal en el modem, para corregir esto, tienes que revisar el cable de red de tu computadora para ver si se encuentra conectado correctamente, en caso de que el problema no se resuelva revisar que tu modem mande la señal de internet o checar la placa de red.
+
+- EL PUNTERO DEL MOUSE NO SE MUEVE 
+R=Verifique que el cable del Mouse este correctamente instalado en sus puerto. Revise los controladores del Mouse en el administrador de dispositivos. 
+Asegúrese que el puerto COMM1 este habilitado en el BIOS del PC. 
+Chequee que la faja de interfaz del puerto COMM1 este conectada correctamente en la tarjeta madre y que este funcionando. 
+
+- LAS IMÁGENES DEL MONITOR NO TIENEN TODOS LOS COLORES. 
+R=Verifique que los controladores de video del adaptador de video estén bien instalados. Esto se hace viendo las propiedades del Sistema desde Windows en la opción Administrador de Dispositivos de la categoría Sistema del Panel de Control. Si tiene un signo de exclamación, significa que a) Los controladores del Dispositivo no están instalados correctamente
+
+- imágenes se verán amarillentas, azuladas o muy rojizas. 
+R=Muchos de estos problemas son causados por spyware o programas espía. Si bien alcanzaría con tener y actualizar constantemente un programa anti-spyware, las causas pueden venir por otro lado, como por ejemplo la falta de drivers correctos para el hardware instalado. También sería una buena idea aumentar la memoria virtual de la PC, para que aproveche mejor la memoria RAM instalada
 
             
