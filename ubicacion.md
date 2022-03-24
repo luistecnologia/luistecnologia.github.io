@@ -8,4 +8,4 @@ ___Entre virgen del cobre y virgen de zapopan ___
 
 ___puedes cntactarnos por medio de whatssap o via telefonica al 55-45-50-86-10___
 
-__tecnico : Jose luis 
+__tecnico : Jose luis ___
