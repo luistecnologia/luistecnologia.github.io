@@ -7,4 +7,4 @@ whatssap:55-45-50-86-10
 
 telefono:55-16-59-10-51
 
-___horarios de servicios : lunes a viernes : 8 am a 4pm sabados: 10 am a 2 pm 
+___horarios de servicios : lunes a viernes : 8 am a 4pm sabados: 10 am a 2 pm___
