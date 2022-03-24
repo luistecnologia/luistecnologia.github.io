@@ -10,7 +10,7 @@ R= borrar archivos inecesarios y programas , liberar espacio del disco duro
 -  ¿Cuándo se lleva a cabo el mantenimiento preventivo?
 R=Cuando el computador está en condiciones de funcionamiento con el fin de prevenirincidencias antes de ocurra
 
--¿Cuándo se lleva a cabo el mantenimiento correctivo?
+- ¿Cuándo se lleva a cabo el mantenimiento correctivo?
 R=Cuando el computador ha presentado una falla o un daño
 
 - Mi computadora se apaga sola
@@ -156,10 +156,37 @@ R=Verifique que el cable del Mouse este correctamente instalado en sus puerto. R
 Asegúrese que el puerto COMM1 este habilitado en el BIOS del PC. 
 Chequee que la faja de interfaz del puerto COMM1 este conectada correctamente en la tarjeta madre y que este funcionando. 
 
+- Mi computadora se comporta de manera extraña, hace cosas que yo no he pedido
+R=Lo más seguro en estos casos, es que tu Windows este bajo el control de algún virus, spyware o malware, el cual sea el culpable de ese comportamiento extraño que estas notando.
+
+-Q. EL DISCO FUE FORMATEADO Y SE OLVIDARON DE HACER RESPALDO DE LOS DATOS. ¿SE PUEDE RECUPERAR LA INFORMACIÓN?
+R=Sí se puede pero es indispensable que no se siga usando el disco para evitar sobre-escritura. En la mayoría de los casos sí se puede recuperar la parte de la información que no haya sido completamente sobrescrita. Incluso podemos reparar algunos archivos de tipo conocido cuando podemos extraer al menos una parte de los mismos
+
+- Q. YA SE CAMBIO LA TARJETA LOGICA Y EL DISCO SIGUE SIN FUNCIONAR
+ R=El cambio de tarjetas es una técnica que no funciona desde hace tiempo pues los discos modernos incluyen una programación (llamada firmware) que se graba en el área de servicio de los platos y en la tarjeta, por lo que cada disco es diferente y es muy difícil obtener una tarjeta idéntica, que además sirva para reparar el daño original.
+ 
+ -Q. LO REVISARON EN OTRO LADO Y ME DICEN QUE ES UN PROBLEMA FÍSICO (DE AGUJAS, Y OTROS COMPONENTES)
+R=Es mejor que solicites tu disco de vuelta, porque los discos duros no tienen agujas, sino cabezales de lectura/escritura que nunca deben tocar la superficie de los delicados platos magnéticos en los que está grabada la información. Quien te diga que el problema son “las agujas” no sabe de que está hablando y puede dañar irremediablemente los datos.
+
 - LAS IMÁGENES DEL MONITOR NO TIENEN TODOS LOS COLORES. 
 R=Verifique que los controladores de video del adaptador de video estén bien instalados. Esto se hace viendo las propiedades del Sistema desde Windows en la opción Administrador de Dispositivos de la categoría Sistema del Panel de Control. Si tiene un signo de exclamación, significa que a) Los controladores del Dispositivo no están instalados correctamente
 
 - imágenes se verán amarillentas, azuladas o muy rojizas. 
 R=Muchos de estos problemas son causados por spyware o programas espía. Si bien alcanzaría con tener y actualizar constantemente un programa anti-spyware, las causas pueden venir por otro lado, como por ejemplo la falta de drivers correctos para el hardware instalado. También sería una buena idea aumentar la memoria virtual de la PC, para que aproveche mejor la memoria RAM instalada
 
+- ¿Cuánta RAM recomiendas?
+R=Para cargas de trabajo de videojuegos estándar, se ha llegado a un punto donde es difícil recomendar menos de 16 GB de RAM, especialmente a medida que han ido bajando los precios de las memorias.
+
+Dicho esto, si solo estás pensando en jugar a videojuegos, probablemente te puedas arreglar con tan solo 8 GB. Si vas a utilizarlo para más cosas, por ejemplo, para ejecutar Discord, o hacer streaming mientras juegas, 16 GB es una apuesta más segura.
+
+- ¿Con qué frecuencia debes actualizar el sistema?
+R=Realmente depende de las preferencias personales y de cómo de importante sea para cada persona contar con la tecnología más reciente integrada en su configuración.
+
+- ¿Cuál es la temperatura ideal de la CPU durante su uso?
+R=La temperatura ideal depende del procesador específico, y las cifras las podrás encontrar en la documentación de especificaciones del procesador. Esta es otra pregunta para la que he recurrido a la ayuda de nuestros expertos en refrigeración interna, los cuales me recomendaron consultar los recursos de Intel ARK, ya que no hay una única respuesta. ARK es una base de datos de búsqueda sencilla que te permite buscar una CPU específica, y ver la máxima temperatura permitida en la sección "TJunction" bajo "Especificaciones del paquete". En ningún caso deberías sobrepasar ese número.
+
+- ¿Es mejor construir o comprar un PC?
+R=Realmente depende de la opción con la que te sientas más cómodo. Yo me he visto en ambas situaciones, es decir, construí mi primer PC hace unos 15 años y, entre tanto, he tenido dos equipos previamente compilados.
+
+-
             
