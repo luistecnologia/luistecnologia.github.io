@@ -3,6 +3,12 @@
 
 Correo electronico:sosaizquierdojoseluis@gmail.com
 
+<form action="https://formspree.io/f/myyopqnp" method="post">
+Name: <input type="text" name="luistecnologia"><br>
+E-mail: <input type="text" name="sosaizquierdojoseluis@gmail.com"><br>
+<input type="submit">
+</form>
+
 whatssap:55-45-50-86-10
 
 telefono:55-16-59-10-51
