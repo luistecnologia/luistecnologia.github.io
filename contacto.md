@@ -4,10 +4,17 @@
 Correo electronico:sosaizquierdojoseluis@gmail.com
 
 <form action="https://formspree.io/f/myyopqnp" method="post">
-Name: <input type="text" name="luistecnologia"><br>
+Nombre: <input type="text" nombre="nombre"><br>
 E-mail: <input type="text" name="sosaizquierdojoseluis@gmail.com"><br>
 <input type="submit">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname"><br><br>
+  <input type="submit" value="Submit">
 </form>
+
+
 
 whatssap:55-45-50-86-10
 
