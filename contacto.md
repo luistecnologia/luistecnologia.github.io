@@ -4,14 +4,20 @@
 Correo electronico:sosaizquierdojoseluis@gmail.com
 
 <form action="https://formspree.io/f/myyopqnp" method="post">
-Nombre: <input type="text" nombre="nombre"><br>
+  <label for="fname">First nombre:</label><br>
+  <input type="text" id="fname" name="nombre"><br>
+  <label for="lname">apellido:</label><br>
+  <input type="text" id="lname" name="apellido"><br><br>
+  <input type="submit" value="enviar"
 E-mail: <input type="text" name="sosaizquierdojoseluis@gmail.com"><br>
+    <label for="phone">Enter your phone number:</label>
+  <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}"
+          <label for="birthday">Birthday:</label>
+  <input type="date" id="birthday" name="birthday">
+   <label for="quantity">Quantity (between 1 and 10):</label>
+  <input type="number" id="quantity" name="quantity" min="1" max="10">
 <input type="submit">
-  <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname"><br>
-  <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname"><br><br>
-  <input type="submit" value="Submit">
+  
 </form>
 
 
