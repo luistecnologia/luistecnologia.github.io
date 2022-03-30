@@ -16,10 +16,10 @@ E-mail: <input type="text" name="sosaizquierdojoseluis@gmail.com"><br>
   <input type="telefono" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}">"
          
          
-          <label for="fecha">Birthday:</label>
+   <label for="fecha">fecha:</label>
   <input type="date" id="dia" name="mes"><br>
   
-   <label for="calificacion">calificacion:</label>
+  <label for="calificacion">calificacion:</label>
   <input type="number" id="quantity" name="quantity" min="1" max="10">
 <input type="submit"><br>
   
