@@ -9,12 +9,18 @@ Correo electronico:sosaizquierdojoseluis@gmail.com
   <label for="lname">apellido:</label><br>
   <input type="text" id="lname" name="apellido"><br><br>
   <input type="submit" value="enviar"
+
+
 E-mail: <input type="text" name="sosaizquierdojoseluis@gmail.com"><br>
-    <label for="phone">Enter your phone number:</label>
-  <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}"
+  
+    <label for="phone">Enter your numero de telefono:</label>
+  <input type="telefono" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}"
+         
+         
           <label for="birthday">Birthday:</label>
-  <input type="date" id="birthday" name="birthday">
-   <label for="quantity">Quantity (between 1 and 10):</label>
+  <input type="date" id="dia" name="mes">
+  
+   <label for="calificacion">Quantity (between 1 and 10):</label>
   <input type="number" id="quantity" name="quantity" min="1" max="10">
 <input type="submit">
   
