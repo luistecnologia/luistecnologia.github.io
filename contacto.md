@@ -10,7 +10,7 @@ Correo electronico:sosaizquierdojoseluis@gmail.com
   <input type="text" id="lname" name="apellido"><br>
 
 
-E-mail: <input type="text"> name="sosaizquierdojoseluis@gmail.com"><br>
+E-mail: <input type="text"><br>
   
     <label for="phone">telefono:</label><br>
 
